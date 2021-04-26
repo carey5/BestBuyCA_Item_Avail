@@ -7,9 +7,9 @@ from random import randint
 from add_last_drop import add_last_drop
 from playsound import playsound
 
-if_twilio_number = True #set to true to receive SMS or false to not receive
-your_phone_number = '+525527224932'
-your_twilio_number = '+12533439473'
+if_twilio_number = False #set to true to receive SMS or false to not receive
+your_phone_number = '+15144206969'
+your_twilio_number = '+12533439473' #set up a twilio account
 
 def bestbuy():
 
